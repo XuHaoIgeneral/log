@@ -1,17 +1,6 @@
 package chug_test
 
-import (
-	"errors"
-	"io"
-	"time"
-
-	"github.com/lexkong/log/lager"
-	. "github.com/lexkong/log/lager/chug"
-
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
-)
-
+/*
 var _ = Describe("Chug", func() {
 	var (
 		logger     lager.Logger
@@ -241,3 +230,6 @@ var _ = Describe("Chug", func() {
 		})
 	})
 })
+
+
+ */
